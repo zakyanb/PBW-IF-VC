@@ -9,7 +9,7 @@
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/Pemrograman-Berbasis-Web/PBW-IF-VC?style=flat-square"></a>
 </p>
 
-#### Jumat, 🕐 08:00 s.d 10:30
+#### Jumat, 🕐 15:30 s.d 18:00
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
 
